@@ -4,7 +4,7 @@ The provided code is a Deep Reinforcement Learning algorithm trained to assist i
 
 ## Usage Instructions:
 
-1. **Download the `XDRL_SHAP_State_Actor_11.ipynb` file.**
+1. **Download the `/XDRL_SHAP_Actor_Critic_POMDP.ipynb` file.**
 2. **Upload the notebook to Google Colab.**
 3. **Run all cells in the notebook.**
 
