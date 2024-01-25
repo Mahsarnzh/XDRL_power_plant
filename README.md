@@ -8,7 +8,7 @@ The provided code is a Deep Reinforcement Learning algorithm trained to assist i
 2. **Upload the notebook to Google Colab.**
 3. **Run all cells in the notebook.**
 
-The `XDRL_SHAP_State_Actor_11.ipynb` file provides insights into the inner workings of the trained Neural Networks using SHAP, an eXplainable AI tool. This notebook serves as a valuable resource for understanding and interpreting the decisions made by the trained agent.
+The `XDRL_SHAP_Actor_Critic_POMDP.ipynb` file provides insights into the inner workings of the trained Neural Networks using SHAP, an eXplainable AI tool. This notebook serves as a valuable resource for understanding and interpreting the decisions made by the trained agent.
 
 Feel free to explore and gain insights into the explainability of the model!
 
